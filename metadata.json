@@ -1,0 +1,6 @@
+{
+  "name": "GIRMAIC EarthWise AI",
+  "description": "Climate advisory and agricultural decision-support prototype for Ethiopian communities, founded by Girma Haile Bunaro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
